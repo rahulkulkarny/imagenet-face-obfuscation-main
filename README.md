@@ -1,4 +1,4 @@
-CV Face Obfuscation in ImageNet
+CV Face Obfuscation with ImageNet
 
 ![Example images](images/examples.png)
 
