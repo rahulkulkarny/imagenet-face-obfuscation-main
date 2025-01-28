@@ -1,4 +1,4 @@
-# A Study of Face Obfuscation in ImageNet
+CV Face Obfuscation in ImageNet
 
 ![Example images](images/examples.png)
 
